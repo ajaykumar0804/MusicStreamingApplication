@@ -1,0 +1,6 @@
+.qodo
+node_modules/
+*.mp4
+*.mp3
+*.zip
+dist/
